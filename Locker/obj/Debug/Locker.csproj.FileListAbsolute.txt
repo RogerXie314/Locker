@@ -1,0 +1,10 @@
+D:\Csharp\Locker\Locker\Locker\bin\Debug\Locker.exe.config
+D:\Csharp\Locker\Locker\Locker\bin\Debug\Locker.exe
+D:\Csharp\Locker\Locker\Locker\bin\Debug\Locker.pdb
+D:\Csharp\Locker\Locker\Locker\obj\Debug\Locker.Form1.resources
+D:\Csharp\Locker\Locker\Locker\obj\Debug\Locker.Properties.Resources.resources
+D:\Csharp\Locker\Locker\Locker\obj\Debug\Locker.csproj.GenerateResource.cache
+D:\Csharp\Locker\Locker\Locker\obj\Debug\Locker.csproj.CoreCompileInputs.cache
+D:\Csharp\Locker\Locker\Locker\obj\Debug\Locker.exe
+D:\Csharp\Locker\Locker\Locker\obj\Debug\Locker.pdb
+D:\Csharp\Locker\Locker\Locker\obj\Debug\Locker.csprojAssemblyReference.cache
